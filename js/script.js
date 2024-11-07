@@ -28,3 +28,4 @@ studentGrades.pop();// The .pop() method removes the last element from an array.
 studentGrades.pop();// The .pop() method removes the last element from an array. In this case, it removes 90 from the array.
 console.log(studentGrades);// This logs the array studentGrades, which contains the updated student grades.
 let message = "Hey whose on first?";// This is my message.
+console.log(message.length);// This logs the length of the message, which is 23.
