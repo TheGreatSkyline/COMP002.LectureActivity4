@@ -26,3 +26,4 @@ console.log(studentGrades);// This logs the array studentGrades, which contains 
 studentGrades.pop();// The .pop() method removes the last element from an array. In this case, it removes 98 from the array.
 studentGrades.pop();// The .pop() method removes the last element from an array. In this case, it removes 94 from the array.
 studentGrades.pop();// The .pop() method removes the last element from an array. In this case, it removes 90 from the array.
+console.log(studentGrades);// This logs the array studentGrades, which contains the updated student grades.
