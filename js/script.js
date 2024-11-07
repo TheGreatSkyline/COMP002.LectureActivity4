@@ -16,3 +16,4 @@ for (let i = 0; i < newFigures.length; i++) {// let i = 0: Initalizes the loop c
 // console.log(newFigures[i]): Outputs the value of the element at index i of the array.
 console.log(newFigures[i]);
 }
+let studentGrades = [75, 80, 85, 90, 95];// This is my 
