@@ -14,4 +14,5 @@ for (let i = 0; i < newFigures.length; i++) {// let i = 0: Initalizes the loop c
 // i < newFigures.length: Continues the loop as long as i is less than the length of the array.
 // i++: Increments the loop counter i by 1 after each iteration of the loop.
 // console.log(newFigures[i]): Outputs the value of the element at index i of the array.
-    
+console.log(newFigures[i]);
+}
