@@ -17,3 +17,10 @@ for (let i = 0; i < newFigures.length; i++) {// let i = 0: Initalizes the loop c
 console.log(newFigures[i]);
 }
 let studentGrades = [75, 80, 85, 90, 95];// This is my 
+array of student grades.
+studentGrades.push(78);// The .push() method adds an element to the end of an array. In this case, it adds 78 to the array.
+studentGrades.push(82);// The .push() method adds an element to the end of an array. In this case, it adds 82 to the array.
+studentGrades.push(90);// The .push() method adds an element to the end of an array. In this case, it adds 90 to the array.
+studentGrades.push(94);// The .push() method adds an element to the end of an array. In this case, it adds 94 to the array.
+studentGrades.push(98);// The .push() method adds an element to the end of an array. In this case, it adds 98 to the array.
+console.log(studentGrades);// This logs the array studentGrades, which contains the updated student grades.
